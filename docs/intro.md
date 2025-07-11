@@ -3,7 +3,7 @@ title: Intro
 sidebar_position: 1
 ---
 
-# Getting started with Nevermore
+# Getting started with Nevermore fuck you
 
 Here are some quick links to get started with Nevermore:
 
